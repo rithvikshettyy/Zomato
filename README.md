@@ -6,11 +6,6 @@
   <p align="center">Website: <a href="https://zomato-seven-phi.vercel.app">Zomato-Clone</a></p>
 </p>
 
-It is a beginner friendly project to start work upon, where you can learn:
-- How to raise an issue?
-- How to fork and work upon a repository?
-- How to make a PR?
-
 <br>
 
 ![Screenshot](/Images/ss1.png)
@@ -30,3 +25,13 @@ It is a beginner friendly project to start work upon, where you can learn:
 
 <hr>
 Don't forget to leave a 🌟.
+
+### Socials
+
+1. Instagram: https://instagram.com/_ritxvik_
+2. Website: https://rithvikshetty.in
+3. Linkedin: https://linkedin.com/rithvikshetty
+
+<a href="https://github.com/rithvikshettyy/Object-Measurement/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rithvikshettyy/Object-Measurement" />
+</a>
